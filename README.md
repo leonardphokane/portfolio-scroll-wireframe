@@ -52,14 +52,10 @@ Reference: [Week 1: Draw the Path](https://aifluency.flyrank.ai/week-01.html#d
 
 ```
 
+
 ---
 
 
-<<<<<<< HEAD
-=======
----
-
->>>>>>> 5cede9a39d225461ee58d5365ee72ce21f85a4b9
 ## How to Run
 1. Clone or download this repo.
 2. Open `index.html` in your browser (double‑click or use VS Code Live Server).
